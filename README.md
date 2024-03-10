@@ -1,15 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9ADCFF&height=300&section=header&text=YG's%20github&fontSize=60)
+<div id="header" align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=FFEFE8&height=200&section=header&text=YG's%20github&fontSize=50)
+  
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 
-<div>
-<!-- <h3>  Hi there, I'm Yegyong Seo. 👋🏻‍💻</h3> -->
-
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=Seo-Yegyeong&show_icons=true)
-* * * * * * *
 </div>
 
+<div id="body">
 
-
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=Seo-Yegyeong&show_icons=true&bg_color=DBE7C9&text_color=294B29)
+* * * * * * *
 
 <h3><b>Stack</b></h3>
 </br>
@@ -43,19 +43,6 @@
 ### Project
 FireProject, MailApp, Movement, Drone, TaxiDrive
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Yegyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Seo-Yegyeong/Seo-Yegyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
