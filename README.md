@@ -8,6 +8,14 @@
 
 <div id="body">
 
+<div padding=30>
+  
+  ![LOGO Image](image/Mimoticon2.jpg)
+  hello, I'm a Mobile App Developer.
+  I major in Computer Science.
+</div>
+
+
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=Seo-Yegyeong&show_icons=true&bg_color=50,E1F0DA,99BC85&text_color=294B29)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Yegyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
