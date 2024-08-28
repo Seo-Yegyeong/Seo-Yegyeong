@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=99BC85&height=200&section=header&text=Welcome%20to%20YG's&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=99BC85&height=200&section=header&text=My%20Development%20Logs&fontSize=40)
   
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 
@@ -8,19 +8,26 @@
 
 <div id="body">
 
-<div padding=30>
+<div style="padding=30; text-align:center;">
+  [LOGO Image](image/Mimoticon2.jpg)
+  <p>
+    Hi, I'm developing mobile applications as a hobby.
+    <br>
+    nice to be connected with you through this link.
+    <br>
+    I've majored in computer science. :)  
+  </p>
   
-  ![LOGO Image](image/Mimoticon2.jpg)
-  hello, I'm a Mobile App Developer.
-  I major in Computer Science.
 </div>
 
+* * * * *
 
+<!--
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=Seo-Yegyeong&show_icons=true&bg_color=50,E1F0DA,99BC85&text_color=294B29)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Yegyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-* * * * *
 
 <h3><b>Stack</b></h3>
 </br>
