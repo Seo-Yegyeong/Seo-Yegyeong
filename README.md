@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=99BC85&height=200&section=header&text=My%20Development%20Logs&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=99BC85&height=200&section=header&text=My%20Development%20Page&fontSize=40)
   
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 
@@ -9,15 +9,19 @@
 <div id="body">
 
 <div style="padding=30; text-align:center;">
-  [LOGO Image](image/Mimoticon2.jpg)
   <p>
-    Hi, I'm developing mobile applications as a hobby.
+    Welcome to my playing zone~ :D
     <br>
-    nice to be connected with you through this link.
+    I've majored in Computer Engineering.
+    I used to develop android mobile applications as a hobby.
     <br>
-    I've majored in computer science. :)  
+    But currently I'm falling in Smart Factory and Renewable Energy. So I'm studying about these.
+    <br>
+    I hope to grab some good opportunities!
+    <br>
   </p>
-  
+
+  MY BLOG LINK : https://blog.naver.com/seeker0503
 </div>
 
 * * * * *
