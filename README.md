@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=99BC85&height=200&section=header&text=My%20Development%20Page&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=99BC85&height=200&section=header&fontSize=40)
   
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 
@@ -8,16 +8,15 @@
 
 <div id="body">
 
-<div style="padding=30; text-align:center;">
+<div style="text-align:left;">
   <p>
-    Welcome to my playing zone~ :D
+    Hi there!🖐️
     <br>
-    I've majored in Computer Engineering.
+    I'm a software engineer.
+    I really enjoy learning something new!
     I used to develop android mobile applications as a hobby.
     <br>
-    But currently I'm falling in Smart Factory and Renewable Energy. So I'm studying about these.
-    <br>
-    I hope to grab some good opportunities!
+    But currently I'm falling in Smart Factory and Renewable Energy, so I'm studying these now.
     <br>
   </p>
 
