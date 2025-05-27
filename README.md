@@ -10,7 +10,7 @@
       Hi there!🖐️<br>
       I'm a software engineer. I do enjoy learning something new! 💡 <br>
       I've used to develop android mobile applications as a hobby. 📱 <br>
-      But currently I'm falling in smart factory and automation, so I'm studying these and learning c# + WPF + PLC etc. 🏭 <br>
+      But currently I'm falling in smart factory and automation, so I'm studying c# + WPF + PLC etc. 🏭 <br>
       Let's do something nice together! 😄👏
       <br>
     </h4>
