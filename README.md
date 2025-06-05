@@ -91,7 +91,7 @@
       🛠️ Tech : Python, OpenCV, Drone Data <br>
       👩‍🏫 소개 : 시각장애인들을 위한 자전거 도로 알림 프로그램
       
-  15. mealmate <br>
+  15. **mealmate** <br>
       🛠️ Tech : ChatGPT API, Flutter, Dart, Android Studio <br>
       👩‍🏫 소개 : 냉장고의 식재료를 입력받아 Prompt Engineering을 통해 요리 메뉴를 추천해주는 프로그램 <br>
                 A food recommendation app utilizing the ChatGPT API.
