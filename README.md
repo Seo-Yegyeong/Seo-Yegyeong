@@ -87,7 +87,7 @@
       👩‍🏫 소개 : 장애인 택시 호출 서비스를 개선하는 웹사이트 <br>
                 Web service for easy booking of accessible taxis for people with disabilities.
       
-  13. **DetectionProject**
+  13. **DetectionProject** <br>
       🛠️ Tech : Python, OpenCV, Drone Data <br>
       👩‍🏫 소개 : 시각장애인들을 위한 자전거 도로 알림 프로그램
       
