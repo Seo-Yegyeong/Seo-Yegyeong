@@ -78,7 +78,7 @@
                Challenge app for environmental conservation
      
   9. **Drone Project** <br>
-     🛠️ Tech : Python, Ros2, ArUCo marker, matlab, PID 제어기, etc. <br>
+     🛠️ Tech : Python, Ros2, OpenCV, ArUCo marker, matlab, PID 제어기, etc. <br>
      👩‍🏫 소개 : 실내 스마트팜의 무인화를 위한 '모니터링 드론'의 자율 비행 시스템 구현 프로젝트 <br>
                Development of 3D position control technology for drones for smart farm management.
      
