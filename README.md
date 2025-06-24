@@ -61,54 +61,54 @@
   1. **FreshBox** <br>
      🛠️ Tech : C#, WPF, MVVM pattern, MySQL, etc. <br>
      👩‍🏫 소개 : 식품 유통 공장 시스템 자동화 프로젝트 <br>
-     => https://github.com/Seo-Yegyeong/FreshBox
+     => https://github.com/Seo-Yegyeong/FreshBox  <br><br>
      
   2. **FireProject** <br>
      🛠️ Tech : Flutter, Dart, Android Studio, Google Firebase(Firestore..) <br>
      👩‍🏫 소개 : 특수교사와 학부모 간의 원활한 소통을 돕는 알림장 어플리케이션 <br>
                An app facilitating smooth communication between special education teachers and parents. <br>
-     => https://github.com/Seo-Yegyeong/FireProject
+     => https://github.com/Seo-Yegyeong/FireProject  <br><br>
      
   3. **IPoneMailApp** <br>
      🛠️ Tech : Flutter, Dart, Android Studio <br>
      👩‍🏫 소개 : 아이폰의 메일 앱을 UI와 기능을 구현한 어플리케이션. 학회 후배들 교육을 위한 목적으로 구현함. <br>
                An app with a user interface similar to the iPhone's Mail app. It was developed for educational purposes <br>
-     => https://github.com/Seo-Yegyeong/IPhoneMailApp
+     => https://github.com/Seo-Yegyeong/IPhoneMailApp  <br><br>
      
   4. **Movement** <br>
      🛠️ Tech : Flutter, Dart, Android Studio <br>
      👩‍🏫 소개 : 미션을 통해 환경보호 챌린지를 촉진하는 어플리케이션 <br>
                Challenge app for environmental conservation <br>
-     => https://github.com/Seo-Yegyeong/MovementForNatureApp
+     => https://github.com/Seo-Yegyeong/MovementForNatureApp  <br><br>
      
   5. **Drone Project** <br>
      🛠️ Tech : Python, Ros2, OpenCV, ArUCo marker, matlab, PID 제어기, etc. <br>
      👩‍🏫 소개 : 실내 스마트팜의 무인화를 위한 '모니터링 드론'의 자율 비행 시스템 구현 프로젝트 <br>
                Development of 3D position control technology for drones for smart farm management. <br>
-     => https://github.com/Seo-Yegyeong/SmartFarm-DroneProject
+     => https://github.com/Seo-Yegyeong/SmartFarm-DroneProject  <br><br>
      
   6. **TaxiDrive** <br>
       🛠️ Tech : Java, Spring MVC, JSP, JSTL, MySQL, MyBatis, IntelliJ, etc.jsp <br>
       👩‍🏫 소개 : 장애인 택시 호출 서비스를 개선하는 웹사이트 <br>
                 Web service for easy booking of accessible taxis for people with disabilities. <br>
-      => https://github.com/Seo-Yegyeong/TaxiDrive
+      => https://github.com/Seo-Yegyeong/TaxiDrive  <br><br>
       
   7. **DetectionProject** <br>
       🛠️ Tech : Python, OpenCV, Drone Data <br>
       👩‍🏫 소개 : 시각장애인들을 위한 자전거 도로 알림 프로그램 <br>
-      => https://github.com/Seo-Yegyeong/ComputerVision
+      => https://github.com/Seo-Yegyeong/ComputerVision  <br><br>
       
   8. **mealmate** <br>
       🛠️ Tech : ChatGPT API, Flutter, Dart, Android Studio <br>
       👩‍🏫 소개 : 냉장고의 식재료를 입력받아 Prompt Engineering을 통해 요리 메뉴를 추천해주는 프로그램 <br>
                 A food recommendation app utilizing the ChatGPT API. <br>
-      => https://github.com/Seo-Yegyeong/mealmate
+      => https://github.com/Seo-Yegyeong/mealmate  <br><br>
       
   9. **delivery_together** <br>
       🛠️ Tech : Flutter, Dart, Android Studio, Google Firebase <br>
       👩‍🏫 소개 : 배달비 절약을 위한 같이 주문 매칭 어플리케이션 <br>
                 An app that matches people within the campus to place orders together, aiming to solve the minimum order amount issue in delivery apps. <br>
-      => https://github.com/Seo-Yegyeong/delivery_together
+      => https://github.com/Seo-Yegyeong/delivery_together  <br><br>
   
 
 </div>
