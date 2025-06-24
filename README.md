@@ -7,16 +7,15 @@
 
   <div style="text-align:center;">
     <h4>
-      Hi there!🖐️<br>
-      I'm a software engineer. I do enjoy learning something new! 💡 <br>
-      I've used to develop android mobile applications as a hobby. 📱 <br>
-      But currently I'm falling in smart factory and automation, so I'm studying C# + WPF + PLC etc. 🏭 <br>
-      Let's do something nice together! 😄👏
-      <br>
+      Hi there!🖐️<br><br>
+      I'm a software engineer. I do enjoy learning something new! 💡 <br><br>
+      I've used to develop android mobile applications as a hobby. 📱 <br><br>
+      But currently I'm falling in smart factory and automation, so I'm studying C# + WPF + PLC etc. 🏭 <br><br>
+      Let's do something nice together! 😄👏<br><br>
     </h4>
   
-    MY BLOG LINK : https://blog.naver.com/seeker0503
-    MY Tistory LINK : https://jumptosky.tistory.com/
+    📎MY BLOG: https://blog.naver.com/seeker0503
+    📎MY Tistory: https://jumptosky.tistory.com/
   </div>
 
   * * * * *
@@ -30,13 +29,13 @@
 
   <br><br>
 
-  <h2><b>Programming Languages</b></h2>
+  <h2><b>🔠Programming Languages🔠</b></h2>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Yegyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   <br><br>
   
-  <h2><b>Stack</b></h2>
+  <h2><b>⚡Stack⚡</b></h2>
   </br>
   <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a> &nbsp 
@@ -56,7 +55,7 @@
   
   <br><br>
   
-  <h2><b>Project</b></h2>
+  <h2><b>💻Project💻</b></h2>
 
   1. **FreshBox** <br>
      🛠️ Tech : C#, WPF, MVVM pattern, MySQL, etc. <br>
