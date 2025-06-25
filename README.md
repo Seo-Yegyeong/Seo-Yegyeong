@@ -59,7 +59,7 @@
 
   1. **FreshBox** <br>
      🛠️ Tech : C#, WPF, MVVM pattern, MySQL, etc. <br>
-     👩‍🏫 소개 : 식품 유통 공장 시스템 자동화 프로젝트 <br>
+     👩‍🏫 소개 : 식품 유통 공장 자동화 시스템 <br>
      ➡️ [Link](https://github.com/Seo-Yegyeong/FreshBox)  <br><br>
      
   2. **FireProject** <br>
