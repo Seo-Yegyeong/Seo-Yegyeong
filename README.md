@@ -87,7 +87,7 @@
      ➡️ [Link](https://github.com/Seo-Yegyeong/SmartFarm-DroneProject)  <br><br>
      
   6. **TaxiDrive** <br>
-      🛠️ Tech : Java, Spring MVC, JSP, JSTL, MySQL, MyBatis, IntelliJ, etc.jsp <br>
+      🛠️ Tech : Java, Spring MVC, JSP, JSTL, MySQL, MyBatis, IntelliJ, etc.<br>
       👩‍🏫 소개 : 장애인 택시 호출 서비스를 개선하는 웹사이트 <br>
                 <!--Web service for easy booking of accessible taxis for people with disabilities. <br>-->
       ➡️ [Link](https://github.com/Seo-Yegyeong/TaxiDrive)  <br><br>
