@@ -1,22 +1,25 @@
-<div id="header" align="center">
+<div id="header" >
   
-  ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&width="100%"&section=header&text=MY%20PORTFOLIO&fontSize=90)
-</div>
+  ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&width="100%"&section=header&text=Developer,%20YG&fontSize=90)
 
-<div id="body">
-
-  <div style="text-align:center;">
-    <h4>
+  <h3>
       Hi there!🖐️<br><br>
-      I'm a software engineer. I do enjoy learning something new! 💡 <br><br>
+      I'm a software engineer. <br><br>
+      I do enjoy learning something new! 💡 <br><br>
       I've used to develop android mobile applications as a hobby. 📱 <br><br>
       But currently I'm falling in smart factory and automation, so I'm studying C# + WPF + PLC etc. 🏭 <br><br>
       Let's do something nice together! 😄👏<br><br>
-    </h4>
-  
-    📎MY BLOG: https://blog.naver.com/seeker0503
-    📎MY Tistory: https://jumptosky.tistory.com/
-  </div>
+    </h3>
+</div>
+
+<div id="body">
+    <br><br>
+    <p>
+      <a href="https://www.notion.so/printf-1cc1aa037a4780789d9be19bdf11bd6e" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=for-the-badge&logo=notion&logoColor=white"/></a>
+      <a href="https://github.com/Seo-Yegyeong" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+      <a href="https://blog.naver.com/seeker0503" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+      <a href="https://jumptosky.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F15A50?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+    </p>
 
   * * * * *
 
