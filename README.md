@@ -56,7 +56,10 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a> &nbsp
   </p>
-  
+  <!-- badge 만들기
+    Simple Icons 사이트에서 badge와 색상 확인하기. 위와 같은 템플릿에 내용만 수정해주면 완성
+    https://simpleicons.org/
+  -->
   <br><br>
   
   <h2><b>💻Project💻</b></h2>
