@@ -97,7 +97,7 @@
       🛠️ Tech : Java, Spring MVC, JSP, JSTL, MySQL, MyBatis, IntelliJ, etc.<br>
       👩‍🏫 소개 : 장애인 택시 호출 서비스를 개선하는 웹사이트 <br>
                 <!--Web service for easy booking of accessible taxis for people with disabilities. <br>-->
-      ➡️ [Link](https://github.com/Seo-Yegyeong/TaxiDrive)  <br><br>
+      ➡️ [Link](https://github.com/Seo-Yegyeong/TaxiDrive2)  <br><br>
       
   7. **DetectionProject** <br>
       🛠️ Tech : Python, OpenCV, Drone Data <br>
