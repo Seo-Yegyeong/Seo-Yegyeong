@@ -1,6 +1,6 @@
 <div id="header" >
   
-  ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&width="100%"&section=header&text=Developer,%20YG&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=240&width="100%"&section=header&text=Developer,%20YG&fontSize=80)
 
   <h3>
       Hi there!🖐️<br><br>
