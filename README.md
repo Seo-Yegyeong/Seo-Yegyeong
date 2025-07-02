@@ -37,20 +37,28 @@
   
   <h2><b>⚡Stack⚡</b></h2>
   </br>
-  <p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat&logo=Java&logoColor=white"/></a> &nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> &nbsp
+  <p align="center">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/-C%23-99CC00?logo=sharp&style=for-the-badge&logo=sharp&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/></a> &nbsp 
+    <br>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=black"/></a> &nbsp 
+    <br>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"/></a> &nbsp
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/PLC-99CC00?logo=sharp&style=for-the-badge&logo=sharp&logoColor=white"/></a> &nbsp
+    <br>
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a> &nbsp
   </p>
   
   <br><br>
