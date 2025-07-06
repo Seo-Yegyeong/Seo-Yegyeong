@@ -1,6 +1,6 @@
 <div id="header" >
   
-  ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=240&width="100%"&section=header&text=Developer,%20YG&fontSize=80)
+  ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=240&width="100%"&section=header&text=Gyong's%20Github&fontSize=80)
 
   <h3>
       Hi there!🖐️<br><br>
@@ -97,9 +97,10 @@
       🛠️ Tech : Java, Spring MVC, JSP, JSTL, MySQL, MyBatis, IntelliJ, etc.<br>
       👩‍🏫 소개 : 장애인 택시 호출 서비스를 개선하는 웹사이트 <br>
                 <!--Web service for easy booking of accessible taxis for people with disabilities. <br>-->
-      ➡️ [Link](https://github.com/Seo-Yegyeong/TaxiDrive2)  <br><br>
+      ➡️ 초기 작업: [Link](https://github.com/Seo-Yegyeong/TaxiDrive)  <br>
+      ➡️ 완성 작업: [Link](https://github.com/Seo-Yegyeong/TaxiDrive2)  <br><br>
       
-  7. **DetectionProject** <br>
+  7. **BicycleRoadAlarm** <br>
       🛠️ Tech : Python, OpenCV, Drone Data <br>
       👩‍🏫 소개 : 시각장애인들을 위한 자전거 도로 알림 프로그램 <br>
       ➡️ [Link](https://github.com/Seo-Yegyeong/ComputerVisionProject)  <br><br>
