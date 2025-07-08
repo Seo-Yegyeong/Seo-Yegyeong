@@ -129,14 +129,14 @@
 
       ➡️ [Link](https://github.com/Seo-Yegyeong/ComputerVisionProject)  <br><br>
       
-  7. <h2>mealmate</h2>
+  7. <h2>Mealmate</h2>
       🛠️ Tech : ChatGPT API, Flutter, Dart, Android Studio <br>
-      👩‍🏫 소개 : 냉장고의 식재료를 입력받아 Prompt Engineering을 통해 요리 메뉴를 추천해주는 프로그램 <br>
+      👩‍🏫 소개 : ChatGPT API를 이용한 요리 및 레시피 추천 앱 <br>
                 <!--A food recommendation app utilizing the ChatGPT API. <br>-->
 
       ➡️ [Link](https://github.com/Seo-Yegyeong/mealmate)  <br><br>
       
-  8. <h2>delivery_together</h2>
+  8. <h2>Delivery_together</h2>
       🛠️ Tech : Flutter, Dart, Android Studio, Google Firebase <br>
       👩‍🏫 소개 : 배달비 절약을 위한 같이 주문 매칭 어플리케이션 <br>
                 <!--An app that matches people within the campus to place orders together, aiming to solve the minimum order amount issue in delivery apps. <br>-->
