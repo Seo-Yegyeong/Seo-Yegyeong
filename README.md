@@ -14,7 +14,17 @@
 
 <div id="body">
   <br><br>
-  
+
+  <div>
+  <br>
+    <p>
+      <a href="https://www.notion.so/printf-1cc1aa037a4780789d9be19bdf11bd6e" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=for-the-badge&logo=notion&logoColor=white"/></a>
+      <a href="https://github.com/Seo-Yegyeong" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+      <a href="https://blog.naver.com/seeker0503" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+      <a href="https://jumptosky.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F15A50?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+    </p>
+
+</div>
 
 <!--
   <br><br>
@@ -23,17 +33,20 @@
   ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=Seo-Yegyeong&show_icons=true&bg_color=50,E1F0DA,99BC85&text_color=294B29)
 -->
 
-  <br><br>
+  <br><br><br><br>
 
-  <h1><b>🔠 Programming Languages</b></h1>
+  <h1><b>🪄 Programming Languages</b></h1>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Yegyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  <br><br>
+  <br><br><br><br>
+  
+
+
   
   <h1><b>⚡ Stack</b></h1>
   </br>
-  <p align="center">
+  <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/-C%23-99CC00?logo=sharp&style=for-the-badge&logo=sharp&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
@@ -60,7 +73,11 @@
     Simple Icons 사이트에서 badge와 색상 확인하기. 위와 같은 템플릿에 내용만 수정해주면 완성
     https://simpleicons.org/
   -->
-  <br><br>
+  <br><br><br><br>
+
+
+
+
   
   <h1><b>💻 Project</b></h1>
 
@@ -127,15 +144,4 @@
       ➡️ [Link](https://github.com/Seo-Yegyeong/delivery_together)  <br><br>
   
 
-</div>
-<div>
-  <br><br>
-  * * * * *
-  <br><br>
-    <p>
-      <a href="https://www.notion.so/printf-1cc1aa037a4780789d9be19bdf11bd6e" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=for-the-badge&logo=notion&logoColor=white"/></a>
-      <a href="https://github.com/Seo-Yegyeong" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-      <a href="https://blog.naver.com/seeker0503" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
-      <a href="https://jumptosky.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F15A50?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-    </p>
 </div>
